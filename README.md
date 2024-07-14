@@ -1,3 +1,22 @@
+# Quarterly Census of Employment and Wages Analysis
+
+This project provides an in-depth analysis of employment and wage data from various industries and regions, based on the Quarterly Census of Employment and Wages dataset from the New York State Government's open data portal. The visualization aims to offer valuable insights into industry dynamics, labor market trends, and regional economic performance.
+
+## Project Overview
+
+### Motivation
+The project is sponsored by Stephen Robert, Chief Economist at the Economic Research Institute (ERI). The primary goal is to gain insights into the dynamics of various industries within different geographic areas to inform economic policy recommendations and business strategies. Key areas of focus include:
+
+- Identifying thriving, stagnating, or declining industries over time.
+- Tracking labor market trends such as employment growth, wage fluctuations, and establishment dynamics.
+- Conducting regional economic analysis to understand disparities in employment and wages across regions.
+- Developing evidence-based policies that promote economic growth, job creation, and prosperity.
+
+### Data Source
+The dataset used for this project is the Quarterly Census of Employment and Wages (QCEW), which provides comprehensive economic data, including employment and wage information across different industries and regions.
+
+[Dataset Link](https://data.ny.gov/Economic-Development/Quarterly-Census-of-Employment-and-Wages-Quarterly/cwsm-2ns3/about_data)
+
 ## Visualization Insights
 
 ### Key Findings
