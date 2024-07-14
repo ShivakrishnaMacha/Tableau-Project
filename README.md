@@ -60,6 +60,9 @@ The dataset used for this project is the Quarterly Census of Employment and Wage
 **Position:** Chief Economist  
 **Organization:** Economic Research Institute (ERI)
 
+## Tableau Visualization
+![Industry Employment and Wage Dashboard](Quarterly wage and Employment Dashboard.png)
+
 ## Course Context
 
 This project was completed as part of the "Visual Design and Storytelling" course. In the course, we focused on developing skills in data visualization and effective storytelling techniques. The course provided hands-on experience with Tableau, where we learned to transform complex data sets into engaging and informative visualizations. This project was a culmination of the skills and knowledge gained during the course, demonstrating our ability to analyze data and present it in a meaningful way.
