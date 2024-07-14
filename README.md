@@ -61,7 +61,7 @@ The dataset used for this project is the Quarterly Census of Employment and Wage
 **Organization:** Economic Research Institute (ERI)
 
 ## Tableau Visualization
-![Industry Employment and Wage Dashboard](Quarterly wage and Employment Dashboard.png)
+![Industry Employment and Wage Dashboard](Quarterly%20wage%20and%20Employment%20Dashboard.png)
 
 ## Course Context
 
