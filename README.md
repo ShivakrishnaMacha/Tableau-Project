@@ -49,12 +49,6 @@ The dataset used for this project is the Quarterly Census of Employment and Wage
 4. **New York County Employment & Wage Analysis**
    - A map visualization showing the employment and wage distribution within New York County, providing geographic insights into economic performance.
 
-## Project Team
-- Shivakrishna Macha
-- Sandeep Varma Uppalapati
-- Manoj Kumar Singade
-- Venkat Sai Sri Harsha Tripuraneni
-
 ## Project Sponsor
 **Name:** Stephen Robert  
 **Position:** Chief Economist  
@@ -65,14 +59,14 @@ The dataset used for this project is the Quarterly Census of Employment and Wage
 
 ## Course Context
 
-This project was completed as part of the "Visual Design and Storytelling" course. In the course, we focused on developing skills in data visualization and effective storytelling techniques. The course provided hands-on experience with Tableau, where we learned to transform complex data sets into engaging and informative visualizations. This project was a culmination of the skills and knowledge gained during the course, demonstrating our ability to analyze data and present it in a meaningful way.
+This project was completed as part of the "Visual Design and Storytelling" course. In the course, I focused on developing skills in data visualization and effective storytelling techniques. The course provided hands-on experience with Tableau, where I learned to transform complex data sets into engaging and informative visualizations. This project was a culmination of the skills and knowledge gained during the course, demonstrating my ability to analyze data and present it in a meaningful way.
 
 ## Conclusion
-This project provides actionable insights into economic trends, helping to inform policy formulation and decision-making. By leveraging Tableau visualizations, we have presented complex data in an accessible and visually engaging manner, aiding stakeholders in understanding and addressing key economic challenges.
+This project provides actionable insights into economic trends, helping to inform policy formulation and decision-making. By leveraging Tableau visualizations, I have presented complex data in an accessible and visually engaging manner, aiding stakeholders in understanding and addressing key economic challenges.
 
 ## Tableau Dashboard
 
-We have created an interactive Tableau dashboard to analyze and visualize the employment and wage data. You can view the dashboard by clicking the link below:
+I have created an interactive Tableau dashboard to analyze and visualize the employment and wage data. You can view the dashboard by clicking the link below:
 
 [View Our Tableau Dashboard]([https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/views/Quarterly_Census_of_Employment_and_Wages_Quarterly_Data__Beginning_2000/FinalDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
